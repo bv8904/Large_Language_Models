@@ -1,6 +1,6 @@
-# LLM From Scratch
+# Large Language Models
 
-A hands-on, code-first walkthrough of building a Large Language Model, organized around the three stages of the LLM lifecycle. Each stage is implemented in plain Python and PyTorch so every concept can be read, run, and modified.
+A hands-on, code-first walkthrough of building a Large Language Model, organized around the three stages of the LLM lifecycle. 
 
 ## Overview
 
@@ -11,9 +11,6 @@ A hands-on, code-first walkthrough of building a Large Language Model, organized
 | **3. Fine-tuning** | Adapting the model | Classification fine-tuning, instruction fine-tuning |
 
 ## Stage 1: Data Preparation, Attention Mechanisms, and Architecture
-- **Data preparation**
-- **Attention mechanisms**
-- **LLM architecture**
 
 
 ## Stage 2: Pretraining and Evaluation
